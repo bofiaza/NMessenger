@@ -70,7 +70,7 @@
                             </constraints>
                         </view>
                         <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" text="NMessenger" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="YfN-Lj-gpH">
-                            <rect key="frame" x="42" y="5" width="497" height="33"/>
+                            <rect key="frame" x="5" y="5" width="534" height="33"/>
                             <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <constraints>
                                 <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="33" id="vxI-oq-CGe"/>
@@ -86,8 +86,7 @@
                         <constraint firstItem="cHJ-9A-RDO" firstAttribute="top" secondItem="Sm0-IA-kLJ" secondAttribute="top" constant="5" id="F2T-pe-fZn"/>
                         <constraint firstItem="YfN-Lj-gpH" firstAttribute="top" secondItem="Sm0-IA-kLJ" secondAttribute="top" constant="5" id="K0L-2a-LDW"/>
                         <constraint firstItem="Pa9-7P-RgB" firstAttribute="top" secondItem="Sm0-IA-kLJ" secondAttribute="top" constant="5" id="LcR-QE-0cT"/>
-                        <constraint firstItem="YfN-Lj-gpH" firstAttribute="leading" secondItem="Pa9-7P-RgB" secondAttribute="trailing" id="M62-Qn-HO5"/>
-                        <constraint firstItem="YfN-Lj-gpH" firstAttribute="leading" secondItem="Pa9-7P-RgB" secondAttribute="trailing" id="R7x-t3-E4E"/>
+                        <constraint firstItem="YfN-Lj-gpH" firstAttribute="leading" secondItem="Pa9-7P-RgB" secondAttribute="leading" id="R7x-t3-E4E"/>
                         <constraint firstItem="cHJ-9A-RDO" firstAttribute="leading" secondItem="YfN-Lj-gpH" secondAttribute="trailing" id="Rtx-IN-hfz"/>
                         <constraint firstItem="cHJ-9A-RDO" firstAttribute="leading" secondItem="YfN-Lj-gpH" secondAttribute="trailing" id="TYR-aF-Ad0"/>
                         <constraint firstAttribute="bottom" secondItem="Pa9-7P-RgB" secondAttribute="bottom" constant="5" id="XJn-U3-o8q"/>
